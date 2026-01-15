@@ -13,7 +13,8 @@
 *.log
 
 # Must be added
-!Assets/GaussianAssets
+!Assets/GaussianAssets/
+!Assets/GaussianAssets/**
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
